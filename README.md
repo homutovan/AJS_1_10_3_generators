@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/heh92sjo9g74dgjw/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-9-3-testing-async-code-2qqoe/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/j6i1349nw4s81pno/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-10-3-generators/branch/master)
 
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
